@@ -1,2 +1,1 @@
-this file is created using dos command prompt
-Yes
+Some content
